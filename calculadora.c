@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "function_multiplicar.c"
+#include "function_multiplicar"
 
 int main(){
     int input = 0;
